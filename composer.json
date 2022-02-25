@@ -30,7 +30,7 @@
     },
     "authors": [
         {
-            "name": "Kemonai Technologies",
+            "name": "Kemonai",
             "email": "info@kemonai.com",
             "homepage": "https://kemonai.com",
             "role": "Owner"
@@ -47,12 +47,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Chibex\\": "src/"
+            "Kemonai\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Chibex\\Ozioma\\Test\\": "tests/"
+            "Kemonai\\Zigatext\\Test\\": "tests/"
         }
     },
     "scripts": {
